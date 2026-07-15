@@ -1,0 +1,13 @@
+DATA CLEANING REPORT
+Generated: 2026-07-15 14:37:52
+
+Total Rows: 891
+Duplicate Rows Found & Removed: 0
+Total Missing Values Found: 866
+
+Missing Values Per Column:
+  Age: 177 missing
+  Cabin: 687 missing
+  Embarked: 2 missing
+
+Clean Dataset Shape: 891 rows x 11 columns
